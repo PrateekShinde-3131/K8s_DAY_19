@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  firstname: pratik
+  lastname: shinde
+kind: ConfigMap
+metadata:
+  name: app-cm
